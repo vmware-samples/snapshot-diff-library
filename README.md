@@ -139,4 +139,8 @@ snapshot-diff <snapshot dir> <snap1> <snap2> <result dir>
 Windows:
 Copy snapshot-diff to Windows client and run
 snapshot-diff.exe <snapshot dir> <snap1> <snap2> <result dir>
+
 ```
+**Developer Certificate of Origin**<br/>
+
+Before you start working with snapshot-diff-library, please read our Developer Certificate of Origin. All contributions to this repository must be signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on as an open-source patch.
